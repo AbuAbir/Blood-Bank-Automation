@@ -1,1 +1,0 @@
-The .sql file should be imported via XAMPP((API)-a software needs to be installed first) to conncet through localhost to use MySQL server.
